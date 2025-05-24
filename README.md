@@ -85,7 +85,7 @@
 <h2 align="center">💻 LeetCode Stats 💻</h2>
 <br>
 <div align=center>
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Overclocked2124?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 <br/>
@@ -95,7 +95,7 @@
 <h2 align="center">📊 Activity Graph 📊</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=overclocked-2124&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 <br/>
@@ -104,7 +104,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YOUR_USERNAME}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/overclocked-2124/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>

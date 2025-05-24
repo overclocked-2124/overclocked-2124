@@ -14,8 +14,6 @@
  
  💬 Ask me about **C++, Python, React, or anything tech related**
  
- ⚡ Fun fact: **I love creating content and solving problems**
-
  </div>
  
 <div align="center"> 

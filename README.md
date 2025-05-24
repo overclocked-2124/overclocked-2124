@@ -10,7 +10,7 @@
  
  🔭 I'm currently working on **exciting projects**
  
- 🌱 I'm currently learning **Advanced React & System Design**
+ 🌱 I'm currently learning **Advanced Web Dev & System Commands**
  
  💬 Ask me about **C++, Python, React, or anything tech related**
  

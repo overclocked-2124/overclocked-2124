@@ -85,7 +85,7 @@
 <h2 align="center">💻 LeetCode Stats 💻</h2>
 <br>
 <div align=center>
-  <img src="https://leetcard.jacoblin.cool/sbUvyTcqMa?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/overclocked2124?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 <br/>

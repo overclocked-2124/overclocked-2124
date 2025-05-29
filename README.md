@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![LeetCode Card](https://leetcard.jacoblin.cool/overclocked-2124?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Card](https://leetcard.jacoblin.cool/overclocked2124?theme=dark&font=baloo&ext=heatmap)
 
 </div>
 <hr/>

@@ -87,8 +87,13 @@
 </div>
 
 <br/>
+<h2 align="center">💻 LeetCode Activity 💻</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/overclocked2124?theme=dark&type=heatmap" alt="LeetCode heatmap" />
+</p>
 
 <hr/>
+<br/>
 
 <h2 align="center">📊 Activity Graph 📊</h2>
 <br>

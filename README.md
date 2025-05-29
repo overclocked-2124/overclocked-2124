@@ -89,7 +89,7 @@
 <br/>
 <h2 align="center">💻 LeetCode Activity 💻</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/overclocked2124?theme=dark&type=heatmap" alt="LeetCode heatmap" />
+  <img src="https://leetcode-solved-problems.vercel.app/api?username=overclocked2124&type=calendar" alt="LeetCode submission calendar" />
 </p>
 
 <hr/>

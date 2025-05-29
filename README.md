@@ -80,18 +80,11 @@
 
 <hr/>
 
-<h2 align="center">💻 LeetCode Stats 💻</h2>
-<br>
-<div align=center>
-  <img src="https://leetcard.jacoblin.cool/overclocked2124?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+<div align="center">
+
+![LeetCode Card](https://leetcard.jacoblin.cool/ShubhangKuber?theme=dark&font=baloo&ext=heatmap)
+
 </div>
-
-<br/>
-<h2 align="center">💻 LeetCode Activity 💻</h2>
-<p align="center">
-  <img src="https://leetcode-solved-problems.vercel.app/api?username=overclocked2124&type=calendar" alt="LeetCode submission calendar" />
-</p>
-
 <hr/>
 <br/>
 

@@ -59,13 +59,15 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-![Sumukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=username=overclocked-2124&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=27&hide_title=true&custom_title=GitHub%20Statistics)
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=overclocked-2124&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overclocked-2124&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<div align="center">
 
+![Sumukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=overclocked-2124&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=27&hide_title=true&custom_title=GitHub%20Statistics)
+
+![Sumukha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=overclocked-2124&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overclocked-2124&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 <br/><br/>
 
 <hr/>

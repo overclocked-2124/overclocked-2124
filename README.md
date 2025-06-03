@@ -37,7 +37,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     <img src="https://skillicons.dev/icons?i=mongodb,git,github" />
-    <img src="https://skillicons.dev/icons?i=premiere,aftereffects,audition" />
 </div>
 
 <br/>

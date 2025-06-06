@@ -30,17 +30,12 @@
 <br/>
 <hr/>
 
+<h2 align="center">🗓️ My GitHub Contributions Calendar 🗓️</h2>
 <div align="center">
-  <h2>🗓️ My GitHub Skyline (Contribution Art) 🗓️</h2>
-     <a href="https://skyline.github.com/overclocked-2124/2025" target="_blank">
-    <img src="https://skyline.github.com/overclocked-2124/2025.svg" alt="GitHub Skyline 2025" width="48%"/>
-  </a>
-  <a href="https://skyline.github.com/overclocked-2124/2024" target="_blank">
-    <img src="https://skyline.github.com/overclocked-2124/2024.svg" alt="GitHub Skyline 2024" width="48%"/>
-  </a>
-  <a href="https://skyline.github.com/overclocked-2124/2023" target="_blank">
-    <img src="https://skyline.github.com/overclocked-2124/2023.svg" alt="GitHub Skyline 2023" width="48%"/>
-  </a>
+  <img src="https://ghchart.rshah.org/overclocked-2124" alt="Sumukha's Github Contributions Chart" width="90%"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=overclocked-2124&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <!-- The streak stats you already have can also fit well here -->
 </div>
 
 <br/>

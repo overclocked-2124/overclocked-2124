@@ -32,14 +32,15 @@
 
 <div align="center">
   <h2>🗓️ My GitHub Skyline (Contribution Art) 🗓️</h2>
+     <a href="https://skyline.github.com/overclocked-2124/2025" target="_blank">
+    <img src="https://skyline.github.com/overclocked-2124/2025.svg" alt="GitHub Skyline 2025" width="48%"/>
+  </a>
   <a href="https://skyline.github.com/overclocked-2124/2024" target="_blank">
     <img src="https://skyline.github.com/overclocked-2124/2024.svg" alt="GitHub Skyline 2024" width="48%"/>
   </a>
   <a href="https://skyline.github.com/overclocked-2124/2023" target="_blank">
     <img src="https://skyline.github.com/overclocked-2124/2023.svg" alt="GitHub Skyline 2023" width="48%"/>
   </a>
-  <br/><br/>
-  <small>Generate yours (or view past years) at <a href="https://skyline.github.com">skyline.github.com</a>!</small>
 </div>
 
 <br/>
@@ -48,6 +49,7 @@
 <h2 align="center">🚀 My Recent GitHub Activity 🚀</h2>
 <div align="center">
 <!--START_SECTION:activity-->
+<!-- Activity content goes here -->
 <!--END_SECTION:activity-->
 <br/>
 <hr/>

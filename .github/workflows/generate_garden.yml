@@ -1,40 +1,55 @@
 name: Generate Contribution Garden
 
 on:
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch: # Allows manual triggering from the Actions tab
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *' # Runs daily at midnight UTC (00:00 UTC)
 
 jobs:
   build_garden:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest # Use the latest stable Ubuntu runner
     permissions: 
-      contents: write # Important: Allow workflow to write to repository
+      contents: write # Essential: Allows the Action to commit changes back to your repository
 
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
+      - name: Check out Repository
+        # Checks out your repository's code so the Action can access your scripts and output directory
+        uses: actions/checkout@v4 # Using a recent stable version of the checkout action
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        # Sets up the specified Python version for your script
+        uses: actions/setup-python@v5 # Using a recent stable version
         with:
-          python-version: '3.10' # Or your preferred Python version
+          python-version: '3.10' # Or your preferred Python 3 version (e.g., 3.9, 3.11)
+          cache: 'pip' # Caches pip dependencies to speed up subsequent runs
 
       - name: Install dependencies
+        # Installs the Python packages listed in your requirements.txt file
         run: |
           python -m pip install --upgrade pip
           pip install -r garden_generator/requirements.txt
       
       - name: Generate Contribution Garden SVG
+        # Runs your Python script to fetch data and generate the SVG
         env:
-          GH_TOKEN_GARDEN: ${{ secrets.GH_TOKEN_GARDEN }} # Use the GitHub secret
+          GH_TOKEN_GARDEN: ${{ secrets.GH_TOKEN_GARDEN }} # Securely access the PAT from GitHub Secrets
         run: python garden_generator/main.py
 
-      - name: Commit and push if changes
+      - name: Commit and Push Changes (if any)
+        # Commits the generated SVG back to your repository if it has changed
         run: |
-          git config --global user.name "Contribution Garden Bot"
-          git config --global user.email "actions@github.com" # Or your email
+          git config --global user.name "Contribution Garden Bot" # Name for the commit author
+          git config --global user.email "github-actions-bot@github.com" # Email for the commit author (can be your email too)
+          
+          # Add the generated SVG to the staging area
           git add output/contribution_garden.svg
-          # Commit only if there are changes
-          git diff --staged --quiet || git commit -m "feat: auto-update contribution garden 🌳"
-          git push
+          
+          # Check if there are staged changes. If yes, commit and push.
+          # The `git diff --staged --quiet` command exits with 0 if no changes, 1 if changes.
+          # The `||` means "OR", so if the diff command exits with 1 (changes found), then commit.
+          if ! git diff --staged --quiet; then
+            git commit -m "feat: auto-update contribution garden 🌳"
+            git push
+          else
+            echo "No changes to the garden to commit."
+          fi

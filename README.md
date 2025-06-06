@@ -31,22 +31,16 @@
 <hr/>
 
 <h2 align="center">🗓️ My GitHub Contributions Calendar 🗓️</h2>
+<h2 align="center">🌿 My Contribution Garden 🌿</h2>
 <div align="center">
-  <img src="https://ghchart.rshah.org/overclocked-2124" alt="Sumukha's Github Contributions Chart" width="90%"/>
+  <p><em>A year of my coding activity, blooming into a unique digital garden.</em></p>
+  <a href="https://github.com/overclocked-2124/overclocked-2124/blob/main/output/contribution_garden.svg" target="_blank">
+    <img src="output/contribution_garden.svg?raw=true" alt="My GitHub Contribution Garden" width="90%"/>
+    <!-- Adding ?raw=true ensures GitHub serves the raw SVG for the img tag -->
+  </a>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=overclocked-2124&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  <!-- The streak stats you already have can also fit well here -->
+  <small>This garden is automatically cultivated by my daily coding seeds & a GitHub Action.</small>
 </div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🚀 My Recent GitHub Activity 🚀</h2>
-<div align="center">
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/overclocked-2124/SanjeevanAI/pull/7) in [overclocked-2124/SanjeevanAI](https://github.com/overclocked-2124/SanjeevanAI)
-<!--END_SECTION:activity-->
-<br/>
 <hr/>
 
 <h2 align="center">⚡ GitHub Statistics ⚡</h2>

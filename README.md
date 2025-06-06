@@ -36,8 +36,6 @@
     <img src="output/contribution_garden.svg?raw=true" alt="My GitHub Contribution Garden" width="90%"/>
     <!-- Adding ?raw=true ensures GitHub serves the raw SVG for the img tag -->
   </a>
-  <br/>
-  <small>This garden is automatically cultivated by my daily coding seeds & a GitHub Action.</small>
 </div>
 <hr/>
 
@@ -91,7 +89,7 @@
 <hr/>
 
 <div align="center">
-<br><p align="center"><b>👁️ Profile Viewers 👁️</b></p>  
+<br><p align="center"><b>Profile Viewers</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/overclocked-2124/count.svg" /></p> 
 <br>
 </div>

@@ -29,8 +29,6 @@
 </div>
 <br/>
 <hr/>
-
-<h2 align="center">🗓️ My GitHub Contributions Calendar 🗓️</h2>
 <h2 align="center">🌿 My Contribution Garden 🌿</h2>
 <div align="center">
   <p><em>A year of my coding activity, blooming into a unique digital garden.</em></p>

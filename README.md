@@ -44,7 +44,7 @@
 <h2 align="center">🚀 My Recent GitHub Activity 🚀</h2>
 <div align="center">
 <!--START_SECTION:activity-->
-<!-- Activity content goes here -->
+1. 🎉 Merged PR [#7](https://github.com/overclocked-2124/SanjeevanAI/pull/7) in [overclocked-2124/SanjeevanAI](https://github.com/overclocked-2124/SanjeevanAI)
 <!--END_SECTION:activity-->
 <br/>
 <hr/>

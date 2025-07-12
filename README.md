@@ -71,14 +71,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-    <h2 align="center">💻 LeetCode Progress 💻</h2>
-    <img src="https://leetcard.jacoblin.cool/overclocked2124?theme=dark&font=baloo&ext=heatmap&border_radius=10&height=300" alt="LeetCode Card - dark theme"/>
-</div>
-
-<hr/>
-<br/>
-
 <h2 align="center">📊 Activity Graph 📊</h2>
 <br>
 <div align=center>
